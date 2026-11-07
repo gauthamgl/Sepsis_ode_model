@@ -1,8 +1,0 @@
-# Core numerical, simulation, and scientific packages
-numpy>=1.22.0
-scipy>=1.9.0
-matplotlib>=3.5.0
-
-# Manuscript generation
-python-docx>=0.8.11
-

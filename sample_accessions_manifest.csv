@@ -1,0 +1,201 @@
+Sample_ID,Cohort,Accession_ID,Accession_Type,BioProject_or_Database,Isolation_Source
+sepsis_SRR17179107,Sepsis (Invasive Case),SRR17179107,SRA Run (SRR),PRJNA787062,Blood
+sepsis_SRR17179108,Sepsis (Invasive Case),SRR17179108,SRA Run (SRR),PRJNA787062,Blood
+sepsis_SRR17179129,Sepsis (Invasive Case),SRR17179129,SRA Run (SRR),PRJNA787062,Blood
+sepsis_SRR17179147,Sepsis (Invasive Case),SRR17179147,SRA Run (SRR),PRJNA787062,Blood
+sepsis_SRR17179163,Sepsis (Invasive Case),SRR17179163,SRA Run (SRR),PRJNA787062,Blood
+sepsis_SRR17179169,Sepsis (Invasive Case),SRR17179169,SRA Run (SRR),PRJNA787062,Blood
+sepsis_SRR17179196,Sepsis (Invasive Case),SRR17179196,SRA Run (SRR),PRJNA787062,Blood
+sepsis_SRR17179200,Sepsis (Invasive Case),SRR17179200,SRA Run (SRR),PRJNA787062,Blood
+sepsis_SRR17179292,Sepsis (Invasive Case),SRR17179292,SRA Run (SRR),PRJNA787062,Blood
+sepsis_SRR17179294,Sepsis (Invasive Case),SRR17179294,SRA Run (SRR),PRJNA787062,Blood
+sepsis_SRR17179367,Sepsis (Invasive Case),SRR17179367,SRA Run (SRR),PRJNA787062,Blood
+sepsis_SRR17179385,Sepsis (Invasive Case),SRR17179385,SRA Run (SRR),PRJNA787062,Blood
+sepsis_SRR17179386,Sepsis (Invasive Case),SRR17179386,SRA Run (SRR),PRJNA787062,Blood
+sepsis_SRR17179388,Sepsis (Invasive Case),SRR17179388,SRA Run (SRR),PRJNA787062,Blood
+sepsis_SRR17179389,Sepsis (Invasive Case),SRR17179389,SRA Run (SRR),PRJNA787062,Blood
+sepsis_SRR17303126,Sepsis (Invasive Case),SRR17303126,SRA Run (SRR),PRJNA790720,Blood
+sepsis_SRR17303546,Sepsis (Invasive Case),SRR17303546,SRA Run (SRR),PRJNA790720,Blood
+sepsis_SRR17303547,Sepsis (Invasive Case),SRR17303547,SRA Run (SRR),PRJNA790720,Blood
+sepsis_SRR17303548,Sepsis (Invasive Case),SRR17303548,SRA Run (SRR),PRJNA790720,Blood
+sepsis_SRR20621828,Sepsis (Invasive Case),SRR20621828,SRA Run (SRR),PRJNA853564,Blood
+sepsis_SRR20621830,Sepsis (Invasive Case),SRR20621830,SRA Run (SRR),PRJNA853564,Blood
+sepsis_SRR20621831,Sepsis (Invasive Case),SRR20621831,SRA Run (SRR),PRJNA853564,Blood
+sepsis_SRR24204317,Sepsis (Invasive Case),SRR24204317,SRA Run (SRR),PRJNA945449,Blood
+sepsis_SRR24204321,Sepsis (Invasive Case),SRR24204321,SRA Run (SRR),PRJNA945449,Blood
+sepsis_SRR24204323,Sepsis (Invasive Case),SRR24204323,SRA Run (SRR),PRJNA945449,Blood
+sepsis_SRR24204337,Sepsis (Invasive Case),SRR24204337,SRA Run (SRR),PRJNA945449,Blood
+sepsis_SRR24204340,Sepsis (Invasive Case),SRR24204340,SRA Run (SRR),PRJNA945449,Blood
+sepsis_SRR24204348,Sepsis (Invasive Case),SRR24204348,SRA Run (SRR),PRJNA945449,Blood
+sepsis_SRR24204350,Sepsis (Invasive Case),SRR24204350,SRA Run (SRR),PRJNA945449,Blood
+sepsis_SRR24204369,Sepsis (Invasive Case),SRR24204369,SRA Run (SRR),PRJNA945449,Blood
+sepsis_SRR24204372,Sepsis (Invasive Case),SRR24204372,SRA Run (SRR),PRJNA945449,Blood
+sepsis_SRR24204377,Sepsis (Invasive Case),SRR24204377,SRA Run (SRR),PRJNA945449,Blood
+sepsis_SRR24204386,Sepsis (Invasive Case),SRR24204386,SRA Run (SRR),PRJNA945449,Blood
+sepsis_SRR24332800,Sepsis (Invasive Case),SRR24332800,SRA Run (SRR),PRJNA945449,Blood
+sepsis_SRR24332811,Sepsis (Invasive Case),SRR24332811,SRA Run (SRR),PRJNA945449,Blood
+sepsis_SRR24332813,Sepsis (Invasive Case),SRR24332813,SRA Run (SRR),PRJNA945449,Blood
+sepsis_SRR24332829,Sepsis (Invasive Case),SRR24332829,SRA Run (SRR),PRJNA945449,Blood
+sepsis_SRR24332832,Sepsis (Invasive Case),SRR24332832,SRA Run (SRR),PRJNA945449,Blood
+sepsis_SRR24332851,Sepsis (Invasive Case),SRR24332851,SRA Run (SRR),PRJNA945449,Blood
+sepsis_SRR24332852,Sepsis (Invasive Case),SRR24332852,SRA Run (SRR),PRJNA945449,Blood
+sepsis_SRR24332865,Sepsis (Invasive Case),SRR24332865,SRA Run (SRR),PRJNA945449,Blood
+sepsis_SRR25627038,Sepsis (Invasive Case),SRR25627038,SRA Run (SRR),PRJNA790720,Blood
+sepsis_SRR25627039,Sepsis (Invasive Case),SRR25627039,SRA Run (SRR),PRJNA790720,Blood
+sepsis_SRR25627040,Sepsis (Invasive Case),SRR25627040,SRA Run (SRR),PRJNA790720,Blood
+sepsis_SRR25627041,Sepsis (Invasive Case),SRR25627041,SRA Run (SRR),PRJNA790720,Blood
+sepsis_SRR25627042,Sepsis (Invasive Case),SRR25627042,SRA Run (SRR),PRJNA790720,Blood
+sepsis_SRR25627044,Sepsis (Invasive Case),SRR25627044,SRA Run (SRR),PRJNA790720,Blood
+sepsis_SRR25627045,Sepsis (Invasive Case),SRR25627045,SRA Run (SRR),PRJNA790720,Blood
+sepsis_SRR25627046,Sepsis (Invasive Case),SRR25627046,SRA Run (SRR),PRJNA790720,Blood
+sepsis_SRR29598488,Sepsis (Invasive Case),SRR29598488,SRA Run (SRR),PRJNA787062,Blood
+sepsis_SRR29598496,Sepsis (Invasive Case),SRR29598496,SRA Run (SRR),PRJNA787062,Blood
+sepsis_SRR29598516,Sepsis (Invasive Case),SRR29598516,SRA Run (SRR),PRJNA787062,Blood
+sepsis_SRR29598527,Sepsis (Invasive Case),SRR29598527,SRA Run (SRR),PRJNA787062,Blood
+sepsis_SRR29598547,Sepsis (Invasive Case),SRR29598547,SRA Run (SRR),PRJNA787062,Blood
+sepsis_SRR29598553,Sepsis (Invasive Case),SRR29598553,SRA Run (SRR),PRJNA787062,Blood
+sepsis_SRR29598578,Sepsis (Invasive Case),SRR29598578,SRA Run (SRR),PRJNA787062,Blood
+sepsis_SRR29598580,Sepsis (Invasive Case),SRR29598580,SRA Run (SRR),PRJNA787062,Blood
+sepsis_SRR29598583,Sepsis (Invasive Case),SRR29598583,SRA Run (SRR),PRJNA787062,Blood
+sepsis_SRR29598584,Sepsis (Invasive Case),SRR29598584,SRA Run (SRR),PRJNA787062,Blood
+sepsis_SRR29598586,Sepsis (Invasive Case),SRR29598586,SRA Run (SRR),PRJNA787062,Blood
+sepsis_SRR29598592,Sepsis (Invasive Case),SRR29598592,SRA Run (SRR),PRJNA787062,Blood
+sepsis_SRR29648669,Sepsis (Invasive Case),SRR29648669,SRA Run (SRR),PRJNA787062,Blood
+sepsis_SRR32465398,Sepsis (Invasive Case),SRR32465398,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465403,Sepsis (Invasive Case),SRR32465403,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465413,Sepsis (Invasive Case),SRR32465413,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465423,Sepsis (Invasive Case),SRR32465423,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465425,Sepsis (Invasive Case),SRR32465425,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465426,Sepsis (Invasive Case),SRR32465426,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465428,Sepsis (Invasive Case),SRR32465428,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465429,Sepsis (Invasive Case),SRR32465429,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465434,Sepsis (Invasive Case),SRR32465434,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465435,Sepsis (Invasive Case),SRR32465435,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465436,Sepsis (Invasive Case),SRR32465436,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465442,Sepsis (Invasive Case),SRR32465442,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465443,Sepsis (Invasive Case),SRR32465443,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465446,Sepsis (Invasive Case),SRR32465446,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465448,Sepsis (Invasive Case),SRR32465448,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465453,Sepsis (Invasive Case),SRR32465453,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465462,Sepsis (Invasive Case),SRR32465462,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465466,Sepsis (Invasive Case),SRR32465466,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465469,Sepsis (Invasive Case),SRR32465469,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465473,Sepsis (Invasive Case),SRR32465473,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465475,Sepsis (Invasive Case),SRR32465475,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465480,Sepsis (Invasive Case),SRR32465480,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465481,Sepsis (Invasive Case),SRR32465481,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465482,Sepsis (Invasive Case),SRR32465482,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465484,Sepsis (Invasive Case),SRR32465484,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465493,Sepsis (Invasive Case),SRR32465493,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465504,Sepsis (Invasive Case),SRR32465504,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465506,Sepsis (Invasive Case),SRR32465506,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465508,Sepsis (Invasive Case),SRR32465508,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465510,Sepsis (Invasive Case),SRR32465510,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465513,Sepsis (Invasive Case),SRR32465513,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465515,Sepsis (Invasive Case),SRR32465515,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465516,Sepsis (Invasive Case),SRR32465516,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR32465517,Sepsis (Invasive Case),SRR32465517,SRA Run (SRR),PRJNA1199555,Blood
+sepsis_SRR33445272,Sepsis (Invasive Case),SRR33445272,SRA Run (SRR),PRJNA1259250,Blood
+sepsis_SRR33445273,Sepsis (Invasive Case),SRR33445273,SRA Run (SRR),PRJNA1259250,Blood
+sepsis_SRR33445282,Sepsis (Invasive Case),SRR33445282,SRA Run (SRR),PRJNA1259250,Blood
+sepsis_SRR33445283,Sepsis (Invasive Case),SRR33445283,SRA Run (SRR),PRJNA1259250,Blood
+non_sepsis_022554815.1,Non-Sepsis (Control),GCF_022554815.1,Genome Assembly,NCBI RefSeq/GenBank,Respiratory swab
+non_sepsis_022554835.1,Non-Sepsis (Control),GCF_022554835.1,Genome Assembly,NCBI RefSeq/GenBank,Respiratory swab
+non_sepsis_022554855.1,Non-Sepsis (Control),GCF_022554855.1,Genome Assembly,NCBI RefSeq/GenBank,Respiratory swab
+non_sepsis_022554875.1,Non-Sepsis (Control),GCF_022554875.1,Genome Assembly,NCBI RefSeq/GenBank,anal swab
+non_sepsis_022554895.1,Non-Sepsis (Control),GCF_022554895.1,Genome Assembly,NCBI RefSeq/GenBank,anal swab
+non_sepsis_022554915.1,Non-Sepsis (Control),GCF_022554915.1,Genome Assembly,NCBI RefSeq/GenBank,anal swab
+non_sepsis_022554935.1,Non-Sepsis (Control),GCF_022554935.1,Genome Assembly,NCBI RefSeq/GenBank,anal swab
+non_sepsis_022554955.1,Non-Sepsis (Control),GCF_022554955.1,Genome Assembly,NCBI RefSeq/GenBank,anal swab
+non_sepsis_022554975.1,Non-Sepsis (Control),GCF_022554975.1,Genome Assembly,NCBI RefSeq/GenBank,anal swab
+non_sepsis_022554995.1,Non-Sepsis (Control),GCF_022554995.1,Genome Assembly,NCBI RefSeq/GenBank,Respiratory swab
+non_sepsis_022555005.1,Non-Sepsis (Control),GCF_022555005.1,Genome Assembly,NCBI RefSeq/GenBank,Respiratory swab
+non_sepsis_022555035.1,Non-Sepsis (Control),GCF_022555035.1,Genome Assembly,NCBI RefSeq/GenBank,Respiratory swab
+non_sepsis_022555055.1,Non-Sepsis (Control),GCF_022555055.1,Genome Assembly,NCBI RefSeq/GenBank,Respiratory swab
+non_sepsis_022555075.1,Non-Sepsis (Control),GCF_022555075.1,Genome Assembly,NCBI RefSeq/GenBank,Respiratory swab
+non_sepsis_022555095.1,Non-Sepsis (Control),GCF_022555095.1,Genome Assembly,NCBI RefSeq/GenBank,Respiratory swab
+non_sepsis_022555115.1,Non-Sepsis (Control),GCF_022555115.1,Genome Assembly,NCBI RefSeq/GenBank,Respiratory swab
+non_sepsis_022555135.1,Non-Sepsis (Control),GCF_022555135.1,Genome Assembly,NCBI RefSeq/GenBank,Respiratory swab
+non_sepsis_022555155.1,Non-Sepsis (Control),GCF_022555155.1,Genome Assembly,NCBI RefSeq/GenBank,Respiratory swab
+non_sepsis_573.12489,Non-Sepsis (Control),573.12489,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.12490,Non-Sepsis (Control),573.12490,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.12493,Non-Sepsis (Control),573.12493,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.12494,Non-Sepsis (Control),573.12494,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.12495,Non-Sepsis (Control),573.12495,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.12498,Non-Sepsis (Control),573.12498,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.12499,Non-Sepsis (Control),573.12499,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.12500,Non-Sepsis (Control),573.12500,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.12501,Non-Sepsis (Control),573.12501,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.12788,Non-Sepsis (Control),573.12788,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.12789,Non-Sepsis (Control),573.12789,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.12791,Non-Sepsis (Control),573.12791,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.15367,Non-Sepsis (Control),573.15367,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.15368,Non-Sepsis (Control),573.15368,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.15373,Non-Sepsis (Control),573.15373,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.15580,Non-Sepsis (Control),573.15580,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.15581,Non-Sepsis (Control),573.15581,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.15583,Non-Sepsis (Control),573.15583,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.15592,Non-Sepsis (Control),573.15592,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.18070,Non-Sepsis (Control),573.18070,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.18071,Non-Sepsis (Control),573.18071,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.18072,Non-Sepsis (Control),573.18072,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.19984,Non-Sepsis (Control),573.19984,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.20027,Non-Sepsis (Control),573.20027,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.20028,Non-Sepsis (Control),573.20028,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.20029,Non-Sepsis (Control),573.20029,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.20034,Non-Sepsis (Control),573.20034,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.20035,Non-Sepsis (Control),573.20035,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.20036,Non-Sepsis (Control),573.20036,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.20037,Non-Sepsis (Control),573.20037,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.27210,Non-Sepsis (Control),573.27210,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.27362,Non-Sepsis (Control),573.27362,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.27363,Non-Sepsis (Control),573.27363,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.27364,Non-Sepsis (Control),573.27364,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.27365,Non-Sepsis (Control),573.27365,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.27366,Non-Sepsis (Control),573.27366,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.27367,Non-Sepsis (Control),573.27367,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.27368,Non-Sepsis (Control),573.27368,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.27369,Non-Sepsis (Control),573.27369,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.27370,Non-Sepsis (Control),573.27370,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.27371,Non-Sepsis (Control),573.27371,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.27372,Non-Sepsis (Control),573.27372,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.27373,Non-Sepsis (Control),573.27373,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.27401,Non-Sepsis (Control),573.27401,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.27491,Non-Sepsis (Control),573.27491,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.27492,Non-Sepsis (Control),573.27492,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.32370,Non-Sepsis (Control),573.32370,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.32383,Non-Sepsis (Control),573.32383,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.33872,Non-Sepsis (Control),573.33872,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.34245,Non-Sepsis (Control),573.34245,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.34257,Non-Sepsis (Control),573.34257,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.34262,Non-Sepsis (Control),573.34262,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.34268,Non-Sepsis (Control),573.34268,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.34276,Non-Sepsis (Control),573.34276,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.39687,Non-Sepsis (Control),573.39687,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.39688,Non-Sepsis (Control),573.39688,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.39689,Non-Sepsis (Control),573.39689,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.39694,Non-Sepsis (Control),573.39694,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.40271,Non-Sepsis (Control),573.40271,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.40272,Non-Sepsis (Control),573.40272,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.40273,Non-Sepsis (Control),573.40273,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.40284,Non-Sepsis (Control),573.40284,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.45988,Non-Sepsis (Control),573.45988,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.45990,Non-Sepsis (Control),573.45990,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.45992,Non-Sepsis (Control),573.45992,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.45993,Non-Sepsis (Control),573.45993,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.45994,Non-Sepsis (Control),573.45994,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.45995,Non-Sepsis (Control),573.45995,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.45996,Non-Sepsis (Control),573.45996,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.45997,Non-Sepsis (Control),573.45997,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.45998,Non-Sepsis (Control),573.45998,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.45999,Non-Sepsis (Control),573.45999,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.46000,Non-Sepsis (Control),573.46000,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.46001,Non-Sepsis (Control),573.46001,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.46004,Non-Sepsis (Control),573.46004,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.46005,Non-Sepsis (Control),573.46005,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.48950,Non-Sepsis (Control),573.48950,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.48951,Non-Sepsis (Control),573.48951,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.48953,Non-Sepsis (Control),573.48953,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.48954,Non-Sepsis (Control),573.48954,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.48955,Non-Sepsis (Control),573.48955,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization
+non_sepsis_573.48956,Non-Sepsis (Control),573.48956,Genome Assembly,BV-BRC (PATRIC),Non-invasive / Colonization

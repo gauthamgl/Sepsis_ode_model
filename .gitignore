@@ -1,24 +1,20 @@
-# Python artifacts & bytecode
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
+
+# OS and Editor files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.vscode/
+.idea/
+*.swp
+*.swo
 
 # Virtual environments
 venv/
@@ -26,23 +22,22 @@ venv/
 env/
 .env
 
-# Operating system files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-
-# IDE and Editor settings
-.vscode/
-.idea/
-*.swp
-*.swo
-
 # Antigravity / Agent IDE metadata
 .agents/
 
-# Temporary duplicate downloads
-* (3) (3) (1).docx
+# Local manuscript documents, figures, and internal build scripts
+*.docx
+*.png
+build_*.py
+generate_*.py
+sensitivity_*.py
+sensitivity_*.md
+Discussion.md
+LHS_PRCC_Explanation.md
+References.md
+implementation_plan.md
+results_and_discussion.md
+walkthrough.md
+final_5hits.fasta
+requirements.txt
+all_wgs_srr_ids.txt
